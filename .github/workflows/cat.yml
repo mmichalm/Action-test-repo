@@ -6,7 +6,8 @@ on:
       - opened
       - reopened
       
-permissions: write-all
+permissions:
+  pull-requests: write  
 
 jobs:
   aCatForCreatingThePullRequest:
