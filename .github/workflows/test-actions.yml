@@ -1,9 +1,0 @@
-              
-
-- name: Workflow Telemetry
-
-              
-
-  uses: runforesight/workflow-telemetry-action@v1.8.0
-
-            
