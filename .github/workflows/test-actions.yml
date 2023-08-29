@@ -1,0 +1,7 @@
+name: Workflow Telemetry
+
+on: [push]              
+  jobs:
+  use-action:
+    steps:
+      - uses: runforesight/workflow-telemetry-action@v1.8.0
