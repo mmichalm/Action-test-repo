@@ -24,4 +24,3 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: runforesight/workflow-telemetry-action@v1.8.0
-      - uses: ruairidhwm/action-cats@1.0.2
